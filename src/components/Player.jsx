@@ -1,4 +1,4 @@
-import { Container, Image } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 import { useSelector } from "react-redux";
 import shuffleIcon from "../assets/playerbuttons/shuffle.png";
 import prevIcon from "../assets/playerbuttons/prev.png";
